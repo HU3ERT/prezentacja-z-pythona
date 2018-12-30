@@ -1,0 +1,69 @@
+ZADANIE NR 1
+Użyj pętli for z liczbą całkowitą, aby wydrukować następujące 5 linii:
+1 YYYY
+2 YYYY
+3 YYYY
+4 YYYY
+5 YYYY
+
+ZADANIE NR 2
+Połącz wszystkie części ścieżki w szablonie ze znakami ukośnika odwrotnego (\) i wydrukuj cały ciąg znaków.
+zadanie = ['c:','users','john','images','camera','edited','001.img']
+
+ZADANIE NR 3
+Poproś użytkownika, aby wykonał następujące czynności:
+
+Podaj nazwę kraju, który nie zawiera małych liter a lub e. (Wpisz następujący monit: "Kraj to:")
+Jeśli użytkownik poda prawidłowy ciąg znaków 
+(tzn. Bez znaku a lub e w nim), wydrukuj: Wygrałeś ... chyba że podałeś tę nazwę! W przeciwnym razie wydrukuj: Straciłeś!
+
+(możliwe odpowiedzi obejmują Hongkong, Cypr i Togo.)
+
+ZADANIE NR 4
+Litera e jest najczęstszą literą w języku angielskim. Policz i drukuj ile razy ta litera pojawia się w poniższym wierszu:
+John Knox was a man of wondrous might,
+And his words ran high and shrill,
+For bold and stout was his spirit bright,
+And strong was his stalwart will.
+
+Kings sought in vain his mind to chain,
+And that giant brain to control,
+But naught on plain or stormy main
+Could daunt that mighty soul.
+
+John would sit and sigh till morning cold
+Its shining lamps put out,
+For thoughts untold on his mind lay hold,
+And brought but pain and doubt.
+
+But light at last on his soul was cast,
+Away sank pain and sorrow,
+His soul is gay, in a fair to-day,
+And looks for a bright to-morrow.
+
+
+ZADANIE NR 5
+Poproś użytkownika, aby zadał pytanie (na przykład ciąg znaków ze znakiem zapytania na końcu).
+Napisz: Proszę podać pytanie w języku angielskim: 
+Jeśli pytanie jest poprawne, wydrukuj: Prawidłowe pytanie.
+W przeciwnym razie wydrukuj: Niepoprawne pytanie.
+
+ZADANIE NR 6
+Oto pi z 75 cyframi po kropce:
+3.141592653589793238462643383279502884197169399375105820974944592307816406286
+Użyj cięcia łańcuchowego, aby wydrukować 8 pierwszych cyfr po przecinku dziesiętnym.
+
+ZADANIE NR 7
+Wydrukuj każdy 'log' na liście dzienników w nowym wierszu i nie dołączaj części czasu.
+logs = [
+  '12:04 User logged in.',
+  '12:07 User tried to access a restricted resource.',
+  '12:09 User sent a message to the admin.',
+  '12:10 User logged out.'
+]
+
+ZADANIE NR 8
+Tajna wiadomość została zakodowana w ciągu tekstowym secret_message.
+Aby zdekodować wiadomość, wypisz co drugi znak, zaczynając od postaci z indeksem 1.
+
+
