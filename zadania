@@ -65,5 +65,7 @@ logs = [
 ZADANIE NR 8
 Tajna wiadomość została zakodowana w ciągu tekstowym secret_message.
 Aby zdekodować wiadomość, wypisz co drugi znak, zaczynając od postaci z indeksem 1.
+secret_message = 'x1d  teol  nyiee  2lsi5cqztb3a   pfibe4rewhsbzkac!'
+
 
 
